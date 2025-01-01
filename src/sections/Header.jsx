@@ -72,11 +72,16 @@ const Header = () => {
                     )}
                   >
                     <img
-                      src="/images/encryptiv2.svg"
+                      src="/logo.png"
                       alt="logo"
-                      width={250}
-                      height={200}
-                      className={clsx("mt-4", hasScrolled && "mt-6")}
+                      width={70}
+                      height={40}
+                      className={clsx(
+                        "",
+                        hasScrolled
+                          ? "mt-12 scale-150 transition-transform duration-1000"
+                          : "scale-100"
+                      )}
                     />
                   </LinkScroll>
                 </li>
