@@ -161,51 +161,51 @@ export const plans = [
 export const testimonials = [
   {
     id: "0",
-    name: "Jessica Saunders",
-    role: "Globalnomads",
+    name: "Natasha Sharma",
+    role: "Tech Innovations Pvt. Ltd.",
     avatarUrl: "/images/testimonials/jessica-saunders.png",
     comment:
-      "Xora's customer support is second to none! They’re like my tech superheroes, always there when I need them.",
+      "Encrypti's customer support is unparalleled! They’ve been like my go-to tech gurus, always ready to assist.",
   },
   {
     id: "1",
-    name: "Mark Erixon",
-    role: "Vid capital intl",
+    name: "Siddhant Oberoi",
+    role: "FinCap Advisors",
     avatarUrl: "/images/testimonials/mark-erixon.png",
     comment:
-      "I was skeptical at first, but now I can't imagine our content operations without it. It's that impactful.",
+      "Initially, I had doubts, but now Encrypti is an integral part of our operations. Truly impactful!",
   },
   {
     id: "2",
-    name: "Melanie Hurst",
-    role: "Cyberleap",
+    name: "Devashree Iyer",
+    role: "CyberSecure India",
     avatarUrl: "/images/testimonials/melanie-hurst.png",
     comment:
-      "Adopting this software was a breeze. It's made everyday tasks so much simpler.",
+      "Switching to Encrypti was seamless. It has simplified our daily encryption tasks significantly.",
   },
   {
     id: "3",
-    name: "Alicia Barker",
-    role: "Cyberleap",
+    name: "Meera Nair",
+    role: "NextGen Solutions",
     avatarUrl: "/images/testimonials/alicia-barker.png",
     comment:
-      "The analytics feature is like having a personal fortune teller. It's been instrumental in guiding our business decisions.",
+      "The analytics feature feels like having a personal strategist! It has been pivotal for our decision-making process.",
   },
   {
     id: "4",
-    name: "Becky Snider",
-    role: "Floclips",
+    name: "Shanaya Kapoor",
+    role: "VisionTech Solutions",
     avatarUrl: "/images/testimonials/becky-snider.png",
     comment:
-      "Switched to Xora last month, and I'm already seeing results. Best decision for our team!",
+      "I started using Encrypti recently, and the results are already visible. A game-changer for our team!",
   },
   {
     id: "5",
-    name: "Jim Bradley",
-    role: "Vid capital intl",
+    name: "Aryan Roy Kapoor",
+    role: "SecureData Systems",
     avatarUrl: "/images/testimonials/jim-bradley.png",
     comment:
-      "The efficiency boost is undeniable. This platform has transformed our workflow, forever.",
+      "The productivity boost is remarkable. Encrypti has revolutionized how we manage our data security workflow.",
   },
 ];
 
