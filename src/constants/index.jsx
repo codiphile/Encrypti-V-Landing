@@ -49,108 +49,109 @@ export const details = [
 export const faq = [
   {
     id: "0",
-    question: "How easy is it to setup Xora?",
+    question: "What is Encrypti V?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Encrypti V is a cutting-edge encryption service designed to be quantum-safe and future-ready, ensuring robust security for your data.",
   },
   {
     id: "1",
-    question: "Can I integrate Xora with other platforms?",
+    question: "How is Encrypti V quantum-safe?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Encrypti V uses advanced encryption algorithms specifically designed to resist attacks from quantum computers, providing unparalleled security.",
   },
   {
     id: "2",
-    question: "How often do you add new content?",
+    question: "Who can benefit from Encrypti V?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Encrypti V is ideal for businesses, organizations, and individuals who prioritize data security and want to safeguard their information against future threats.",
   },
   {
     id: "3",
-    question: "What your refund policy?",
+    question: "Is Encrypti V easy to implement?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Yes, Encrypti V is designed to be user-friendly, allowing quick integration and setup with minimal technical expertise required.",
   },
   {
     id: "4",
-    question: "Do you have corporate plans?",
+    question: "Can Encrypti V protect my data from quantum attacks?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Absolutely! Encrypti V’s quantum-safe algorithms are specifically developed to protect your data from emerging quantum threats.",
   },
   {
     id: "5",
-    question: "What happens when I’m out of storage?",
+    question: "What makes Encrypti V future-ready?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Encrypti V anticipates future advancements in computing and encryption, ensuring your data remains secure even as technology evolves.",
   },
   {
     id: "6",
-    question: "Can I upgrade my plan?",
+    question: "Does Encrypti V comply with global data security standards?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Yes, Encrypti V adheres to the highest global data security standards to provide reliable and compliant encryption services.",
   },
   {
     id: "7",
-    question: "How do I invite my team?",
+    question: "Can Encrypti V be customized for specific needs?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Yes, Encrypti V offers flexibility and can be tailored to meet the unique requirements of different industries and use cases.",
   },
   {
     id: "8",
-    question: "Do you offer training for individuals and teams?",
+    question: "Is Encrypti V suitable for small businesses?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Definitely! Encrypti V is scalable and designed to cater to businesses of all sizes, from startups to large enterprises.",
   },
   {
     id: "9",
-    question: "I’m locked out of my account what do I do?",
+    question: "How can I get started with Encrypti V?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Getting started is easy! Contact our team or visit our website to learn more about setting up Encrypti V for your data security needs.",
   },
 ];
 
 export const plans = [
   {
     id: "0",
-    title: "Core",
-    priceMonthly: 19,
-    priceYearly: 12,
-    caption: "Best for solo creators",
+    title: "Essential",
+    priceMonthly: 499,
+    priceYearly: 399,
+    caption: "Best for individuals and small businesses",
     features: [
-      "100MB Cloud storage",
-      "100+ prompt templates",
-      "5 projects",
-      "24/7 support",
+      "500MB secure storage",
+      "Post-quantum encryption",
+      "Up to 3 devices",
+      "Basic support",
     ],
     icon: "/images/circle.svg",
     logo: "/images/plan-1.png",
   },
   {
     id: "1",
-    title: "Overdrive",
-    priceMonthly: 79,
-    priceYearly: 59,
-    caption: "Most popular plan",
+    title: "Pro",
+    priceMonthly: 1499,
+    priceYearly: 1199,
+    caption: "Ideal for growing businesses",
     features: [
-      "All Starter features",
-      "1TB additional storage",
-      "Unlimited projects",
-      "Analytics",
+      "5GB secure storage",
+      "All Essential features",
+      "Unlimited devices",
+      "Priority support",
+      "Custom encryption policies",
     ],
     icon: "/images/triangle.svg",
     logo: "/images/plan-2.png",
   },
   {
     id: "2",
-    title: "Team",
-    priceMonthly: 39,
-    priceYearly: 29,
-    caption: "Exclusively for teams",
+    title: "Enterprise",
+    priceMonthly: 4999,
+    priceYearly: 3999,
+    caption: "Tailored for large organizations",
     features: [
-      "All Overdrive features",
-      "10TB additional storage",
-      "50% off per member",
-      "Real-time collaboration",
+      "Unlimited secure storage",
+      "All Pro features",
+      "Dedicated account manager",
+      "Team collaboration tools",
     ],
     icon: "/images/hexagon.svg",
     logo: "/images/plan-3.png",
